@@ -1,4 +1,4 @@
-<h1 align="center">Yo folks,it's Sudip Thapa aka LUCI</h1>
+<h1 align="center">Yo folks it's LUCI</h1>
 <h3 align="center">Modern Day Wizard</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alpha1232323&label=Profile%20views&color=0e75b6&style=flat" alt="alpha1232323" /> </p>
