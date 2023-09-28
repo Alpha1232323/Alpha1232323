@@ -11,9 +11,7 @@
 
 - 📫 How to reach me **js7096785@gmail.com**
 
-- 📄 Know about my experiences [Skills matter, not silly resume](Skills matter, not silly resume)
-
-- ⚡ Fun fact **F off**
+- ⚡ Fun fact - .............
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
